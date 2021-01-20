@@ -10,7 +10,7 @@ def numbers_and_strings():
     This is to review numbers and strings and basic operations.
     """
     # Write power of 2018
-    x = 2018 ** 2
+    x = 2018 ** 3
 
     # Assign a string "Stevens" to a variable y
     y = "Stevens"
