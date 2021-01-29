@@ -22,10 +22,10 @@ def test_len():
 
 
 def test_concat():
-    assert(m == "Hoboken  is a nice city")
+    assert(m == "Hoboken  is awesome")
 
 
 def test_replace():
-    assert(n == "Hoboken  is a nice city")
+    assert(n == "Hoboken  is awesome")
 
 
