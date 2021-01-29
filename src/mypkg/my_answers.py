@@ -34,7 +34,7 @@ def lists():
     """
     This is to review basic operations with lists.
     """
-    n = "Hoboken is a nice city"
+    n = "Hoboken is awesome"
 
     # Split variable n on a delimiter space into a list of substrings
     p = n.split(" ")
@@ -59,7 +59,7 @@ def lists():
     # We can convert a single character to its underlying integer code (e.g., its ASCII byte value)
     # by passing it to the built-in ord function. Generate a list of these integers to represent
     # each character of the string "Stevens" using list comprehension.
-    o = [ord(c) for c in "Stevens"]
+    o = [ord(c) for c in "Hoboken"]
 
     return p, r, c, d, o
 
