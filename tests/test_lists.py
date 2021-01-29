@@ -5,7 +5,7 @@ from mypkg.my_answers import lists
 p, r, c, d, o = lists()
 
 def test_split():
-    assert(p[0] == "Stevens")
+    assert(p[0] == "Hoboken")
     assert(p[1] == "is")
     assert(p[2] == "awesome")
 
@@ -28,4 +28,4 @@ def test_diagonal():
 def test_ord():
     x = [chr(x) for x in o]
     rec = "".join(x)
-    assert(rec == "Stevens")
+    assert(rec == "Hoboken")
