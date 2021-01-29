@@ -9,23 +9,23 @@ def numbers_and_strings():
     """
     This is to review numbers and strings and basic operations.
     """
-    # Write power of 2018
-    x = 2018 ** 2
+    # Write power of 2030
+    x = 2030 ** 2
 
-    # Assign a string "Stevens" to a variable y
-    y = "Stevens"
+    # Assign a string "Python" to a variable y
+    y = "Python"
 
-    # Repeat variable y 5 times
-    z = y * 5
+    # Repeat variable y 10 times
+    z = y * 10
 
     # What is the length of z?
     length = len(z)
 
-    # Concatenate variable y with string " is good"
-    m = y + " is good"
+    # Concatenate variable y with string " Great"
+    m = y + " is Great"
 
-    # Replace "good" with "awesome" in variable m and assign it to a new variable n
-    n = m.replace("good", "awesome")
+    # Replace "Great" with "good" in variable m and assign it to a new variable n
+    n = m.replace("Great", "good")
 
     return x, y, z, length, m, n
 
@@ -34,7 +34,7 @@ def lists():
     """
     This is to review basic operations with lists.
     """
-    n = "Stevens is awesome"
+    n = "Hoboken is a nice city"
 
     # Split variable n on a delimiter space into a list of substrings
     p = n.split(" ")
@@ -71,8 +71,8 @@ def dictionaries():
     # Create a dictionary that maps:
     #   fruit => "apple"
     #   quantity => 17
-    #   color => "green"
-    f = {"fruit": "apple", "quantity": 4, "color": "green"}
+    #   color => "red"
+    f = {"fruit": "apple", "quantity": 4, "color": "red"}
 
     # Get the item in dictionary f that the key "fruit" maps to
     a = f["fruit"]
