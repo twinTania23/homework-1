@@ -1,4 +1,4 @@
-#Assignment Due Feb 19.
+#Assignment Due Date Feb 19.
 
 #Instructions:
 - If you are a student who is registered to this class, click on the link that I shared with you. That will create a private Github repository for you. Once you have that repository, clone it to your local by using "git clone".
