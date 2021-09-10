@@ -6,7 +6,7 @@ x, y, z, length, m, n = numbers_and_strings()
 
 
 def test_power():
-    assert(x == 2560000)
+    assert(x == 1024)
 
 
 def test_string():
