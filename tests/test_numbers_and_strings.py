@@ -14,7 +14,7 @@ def test_string():
 
 
 def test_repeat():
-    assert(len(z) == 7 * len("Python"))
+    assert(len(z) == 7 * len("Stevens"))
 
 
 def test_len():
