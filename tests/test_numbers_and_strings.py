@@ -6,26 +6,26 @@ x, y, z, length, m, n = numbers_and_strings()
 
 
 def test_power():
-    assert(x == 4120900)
+    assert(x == 2560000)
 
 
 def test_string():
-    assert(y == "Python")
+    assert(y == "Stevens")
 
 
 def test_repeat():
-    assert(len(z) == 10 * len("Python"))
+    assert(len(z) == 7 * len("Python"))
 
 
 def test_len():
-    assert(length == 60)
+    assert(length == 49)
 
 
 def test_concat():
-    assert(m == "Python is Great")
+    assert(m == "Stevens is Great")
 
 
 def test_replace():
-    assert(n == "Python is good")
+    assert(n == "Stevens is Good")
 
 
