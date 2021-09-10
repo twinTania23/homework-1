@@ -10,7 +10,7 @@ def test_fruit():
 
 
 def test_quantity():
-    assert(f["quantity"] == 5)
+    assert(f["quantity"] == 19)
 
 
 def test_programmer():
