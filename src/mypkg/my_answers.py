@@ -9,14 +9,14 @@ def numbers_and_strings():
     """
     This is to review numbers and strings and basic operations.
     """
-    # Write power of 2030
-    x = 2030 ** 2
+    # Write power of 1600
+    x = 1600 ** 2
 
-    # Assign a string "Python" to a variable y
-    y = "Python"
+    # Assign a string "Stevens" to a variable y
+    y = "Stevens"
 
-    # Repeat variable y 10 times
-    z = y * 10
+    # Repeat variable y 7 times
+    z = y * 7
 
     # What is the length of z?
     length = len(z)
@@ -24,8 +24,8 @@ def numbers_and_strings():
     # Concatenate variable y with string " Great"
     m = y + " is Great"
 
-    # Replace "Great" with "good" in variable m and assign it to a new variable n
-    n = m.replace("Great", "good")
+    # Replace "Great" with "Good" in variable m and assign it to a new variable n
+    n = m.replace("Great", "Good")
 
     return x, y, z, length, m, n
 
