@@ -9,7 +9,7 @@ def numbers_and_strings():
     """
     This is to review numbers and strings and basic operations.
     """
-    # Write power of 1600
+    # Write power of 2
     x = 
 
     # Assign a string "Stevens" to a variable y
