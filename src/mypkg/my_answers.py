@@ -34,7 +34,7 @@ def lists():
     """
     This is to review basic operations with lists.
     """
-    n = 
+    n = "Hoboken is awesome"
 
     # Split variable n on a delimiter space into a list of substrings
     p = 
